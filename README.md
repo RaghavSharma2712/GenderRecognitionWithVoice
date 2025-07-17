@@ -12,9 +12,9 @@ Machine Learning Project built to recognise gender using voice of a person.<br/>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/theprincek/theprincek.github.io/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/RaghavSharma2712/GenderRecognitionWithVoice/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/theprincek/theprincek.github.io/issues">Request Feature</a>
+    <a href="https://github.com/RaghavSharma2712/GenderRecognitionWithVoice/issues">Request Feature</a>
 </h3>
 
 ## Built With
